@@ -1,6 +1,6 @@
 # simple_note_app
 
-A new Flutter project.
+Hãy vào image_test_app để xem ảnh demo app 
 
 ## Getting Started
 
